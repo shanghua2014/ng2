@@ -1,2 +1,2 @@
 *.map
-src/app/*.js
+ng2-form/node_modules
